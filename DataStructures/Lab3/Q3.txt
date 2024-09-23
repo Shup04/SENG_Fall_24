@@ -1,0 +1,1 @@
+Binary search trees can have parents with multiple children. A binary search tree is much more efficient at searching because it is O(log n) time complexity and O(n) space complexity, while linked list is O(n) time complexity and o(1) space complexity.
