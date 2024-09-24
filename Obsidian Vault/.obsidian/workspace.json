@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "07862d81a46d1d25",
+        "id": "97852b9860a5a426",
         "type": "tabs",
         "children": [
           {
-            "id": "1fec068e578b2a76",
+            "id": "d934815e4aaa7a15",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f42d2c904e1c1f2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Control Sys/Assignment 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c160087ff4f6e305",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Control Sys/Assignment 2.md",
+                "file": "Control Sys/Assignment 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Control Sys/Assignment 2.md",
+                "file": "Control Sys/Assignment 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Control Sys/Assignment 2.md"
+                "file": "Control Sys/Assignment 1.md"
               }
             }
           }
@@ -161,13 +147,14 @@
       "latex-ocr:LatexOCR": false
     }
   },
-  "active": "f42d2c904e1c1f2d",
+  "active": "d934815e4aaa7a15",
   "lastOpenFiles": [
+    "Control Sys/Assignment 1-2.md",
+    "Control Sys/Assignment 2.md",
+    "Operating Sys/Assignment 1.md",
+    "Control Sys/Assignment 1.md",
     "Pasted image 20240923114436.png",
     "Pasted image 20240923114420.png",
-    "Control Sys/Assignment 2.md",
-    "Control Sys/Assignment 1.md",
-    "Control Sys/Assignment 1-2.md",
     "Operating Sys/Quiz 1 Compressed.md",
     "Operating Sys/Quiz 1.md",
     "OS Quiz 1 Compressed",
