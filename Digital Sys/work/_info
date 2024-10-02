@@ -1,0 +1,97 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/shup
+Efuel_detector
+Z0 w1727456799
+Z1 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 14
+Z5 d/home/shup/Documents/SENG_Fall_24
+Z6 8/home/shup/Documents/SENG_Fall_24/fuel_detector.vhd
+Z7 F/home/shup/Documents/SENG_Fall_24/fuel_detector.vhd
+l0
+L6 1
+Vk@8:fHc:oRTX4MdoaDgXU3
+!s100 Hod>]3h;_9514UnNeDWoi3
+Z8 OV;C;2020.1;71
+32
+Z9 !s110 1727456803
+!i10b 1
+Z10 !s108 1727456803.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/shup/Documents/SENG_Fall_24/fuel_detector.vhd|
+Z12 !s107 /home/shup/Documents/SENG_Fall_24/fuel_detector.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Abehavioral
+R1
+R2
+R3
+R4
+DEx4 work 13 fuel_detector 0 22 k@8:fHc:oRTX4MdoaDgXU3
+!i122 14
+l11
+L10 7
+VaRC99:9E6^>Q]R=5L;WjD2
+!s100 jl`6H?SlFl]ic72JK@4`f2
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Efuel_detector_tb
+Z15 w1727456587
+R3
+R4
+!i122 13
+R5
+Z16 8/home/shup/Documents/SENG_Fall_24/fuel_detector_tb.vhd
+Z17 F/home/shup/Documents/SENG_Fall_24/fuel_detector_tb.vhd
+l0
+L6 1
+V2I0b^WXBG>;`A^cWk2mzQ3
+!s100 G>oi3nX<QKS>@gLV?P9@N2
+R8
+32
+Z18 !s110 1727456787
+!i10b 1
+Z19 !s108 1727456787.000000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/shup/Documents/SENG_Fall_24/fuel_detector_tb.vhd|
+Z21 !s107 /home/shup/Documents/SENG_Fall_24/fuel_detector_tb.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R3
+R4
+DEx4 work 16 fuel_detector_tb 0 22 2I0b^WXBG>;`A^cWk2mzQ3
+!i122 13
+l65
+L9 88
+VAF5f6`D6a]W^@P;eYG3Nl2
+!s100 ^8flAZii<V6?29H7i43W@0
+R8
+32
+R18
+!i10b 1
+R19
+R20
+R21
+!i113 1
+R13
+R14

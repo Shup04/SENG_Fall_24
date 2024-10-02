@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b09b74c86b121a41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Control Sys/Assignment 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c160087ff4f6e305",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Control Sys/Assignment 1.md",
+                "file": "Control Sys/Assignment 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Control Sys/Assignment 1.md",
+                "file": "Control Sys/Assignment 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Control Sys/Assignment 1.md"
+                "file": "Control Sys/Assignment 3.md"
               }
             }
           }
@@ -147,14 +161,24 @@
       "latex-ocr:LatexOCR": false
     }
   },
-  "active": "d934815e4aaa7a15",
+  "active": "b09b74c86b121a41",
   "lastOpenFiles": [
+    "Pasted image 20241002014622.png",
+    "Pasted image 20241002014502.png",
+    "Pasted image 20241002014339.png",
+    "Pasted image 20241002014235.png",
+    "Pasted image 20241002014017.png",
+    "Pasted image 20241002013358.png",
+    "Pasted image 20241002013149.png",
+    "Pasted image 20241002013100.png",
+    "Pasted image 20241002012844.png",
+    "Pasted image 20241002012750.png",
+    "Pasted image 20241002012731.png",
+    "Control Sys/Assignment 1.md",
+    "Control Sys/Assignment 3.md",
     "Control Sys/Assignment 1-2.md",
     "Control Sys/Assignment 2.md",
     "Operating Sys/Assignment 1.md",
-    "Control Sys/Assignment 1.md",
-    "Pasted image 20240923114436.png",
-    "Pasted image 20240923114420.png",
     "Operating Sys/Quiz 1 Compressed.md",
     "Operating Sys/Quiz 1.md",
     "OS Quiz 1 Compressed",

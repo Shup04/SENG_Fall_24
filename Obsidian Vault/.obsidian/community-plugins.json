@@ -1,4 +1,5 @@
 [
   "latex-ocr",
-  "ai-latex-generator"
+  "ai-latex-generator",
+  "obsidian-tikzjax"
 ]
