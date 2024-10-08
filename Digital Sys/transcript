@@ -1,14 +1,13 @@
-# Compile of fuel_detector.vhd was successful.
-# Compile of fuel_detector.vhd was successful.
-# Compile of fuel_testbench.vhd failed with 2 errors.
-# 2 compiles, 1 failed with 2 errors.
-# Compile of fuel_testbench.vhd failed with 1 errors.
-# Compile of fuel_testbench.vhd failed with 1 errors.
-# Compile of fuel_testbench.vhd failed with 1 errors.
-# Compile of fuel_testbench.vhd failed with 1 errors.
-# Compile of fuel_testbench.vhd failed with 7 errors.
-# Compile of fuel_testbench.vhd was successful.
-# Load canceled
-# Compile of fuel_detector.vhd was successful.
-# Compile of fuel_testbench.vhd was successful.
-# 2 compiles, 0 failed with no errors.
+# Error opening /home/shup/Documents/SENG_Fall_24/fuel_detector.vhd
+# Path name '/home/shup/Documents/SENG_Fall_24/fuel_detector.vhd' doesn't exist.
+# Error opening /home/shup/Documents/SENG_Fall_24/fuel_detector.vhd
+# Path name '/home/shup/Documents/SENG_Fall_24/fuel_detector.vhd' doesn't exist.
+# Error opening /home/shup/Documents/SENG_Fall_24/fuel_detector.vhd
+# Path name '/home/shup/Documents/SENG_Fall_24/fuel_detector.vhd' doesn't exist.
+# Error opening /home/shup/Documents/SENG_Fall_24/fuel_detector_tb.vhd
+# Path name '/home/shup/Documents/SENG_Fall_24/fuel_detector_tb.vhd' doesn't exist.
+# Error opening /home/shup/Documents/SENG_Fall_24/fuel_detector_tb.vhd
+# Path name '/home/shup/Documents/SENG_Fall_24/fuel_detector_tb.vhd' doesn't exist.
+# 0 compiles, 2 failed with no errors.
+# Error opening /home/shup/Documents/SENG_Fall_24/fuel_detector_tb.vhd
+# Path name '/home/shup/Documents/SENG_Fall_24/fuel_detector_tb.vhd' doesn't exist.
