@@ -30,9 +30,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f101be2e521c92ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quiz 2 Compressed.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7fdf7b6dbff6d0f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ffa265e5a31ee6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Control Sys/Assignment 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -161,12 +197,15 @@
       "latex-ocr:LatexOCR": false
     }
   },
-  "active": "6c317b5d455b3562",
+  "active": "5ffa265e5a31ee6c",
   "lastOpenFiles": [
+    "Notes Root Locus.md",
+    "Notes.md",
+    "Quiz 2 Compressed.md",
+    "Control Sys/Assignment 4.md",
     "Pasted image 20241007181324.png",
     "Pasted image 20241007181125.png",
     "Control Sys/Img/A3Q1.drawio.png",
-    "Control Sys/Assignment 4.md",
     "Control Sys/Img",
     "Control Sys/Assignment 3.md",
     "Control Sys/Img/Pasted image 20241002014622.png",
@@ -176,7 +215,6 @@
     "Control Sys/Img/Pasted image 20241002014017.png",
     "Control Sys/Img/Pasted image 20241002013358.png",
     "Control Sys/Img/Pasted image 20241002013149.png",
-    "Control Sys/Img/Pasted image 20241002013100.png",
     "Control Sys/Assignment 1.md",
     "Control Sys/Assignment 1-2.md",
     "Control Sys/Assignment 2.md",
