@@ -1,0 +1,18 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+use IEEE.NUMERIC_STD.ALL;
+
+entity fourBitSubtracter is
+Port (
+	A, B: in STD_LOVIC_VECTOR(3 downto 0); 
+	Bin: in STD_LOGIC;
+	Diff: out STD_LOGIC_VECTOR(3 downto 0);
+	Bout: out STD_LOGIC
+);
+end fourBitSubtracter;
+
+architecture myArch of fullSubtracter is
+begin
+	Diff <= (A XOR B) XOR Bin;
+	Bout <= ((Bin AND NOT(A XOR B)) OR (NOT A AND B));
+end myArch;
