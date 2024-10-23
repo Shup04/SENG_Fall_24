@@ -9,26 +9,26 @@ z2
 !i10f 100
 cModel Technology
 d/home/shup
-Efourbitsubtracter
-Z0 w1728666493
+Eandgate
+Z0 w1729317143
 Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
 Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
 Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
-!i122 16
+!i122 45
 Z4 d/home/shup/Documents/SENG_Fall_24/Digital Sys/Lab6
-Z5 8/home/shup/Documents/SENG_Fall_24/Digital Sys/Lab6/FourBitSub.vhd
-Z6 F/home/shup/Documents/SENG_Fall_24/Digital Sys/Lab6/FourBitSub.vhd
+Z5 8/home/shup/Documents/SENG_Fall_24/Digital Sys/Lab6/ANDGATE.vhd
+Z6 F/home/shup/Documents/SENG_Fall_24/Digital Sys/Lab6/ANDGATE.vhd
 l0
 L5 1
-VLIGIlD;_m>OfY@99ifXmT1
-!s100 NWjB:X?:Cj:zW]W0W6@Z]1
+Vz8CK4Kj_kd3N^5XXTFOed0
+!s100 `nE52XE@?;ZT?oFJA6Zfl2
 Z7 OV;C;2020.1;71
 32
-Z8 !s110 1728666499
+Z8 !s110 1729318078
 !i10b 1
-Z9 !s108 1728666499.000000
-Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/shup/Documents/SENG_Fall_24/Digital Sys/Lab6/FourBitSub.vhd|
-Z11 !s107 /home/shup/Documents/SENG_Fall_24/Digital Sys/Lab6/FourBitSub.vhd|
+Z9 !s108 1729318078.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/shup/Documents/SENG_Fall_24/Digital Sys/Lab6/ANDGATE.vhd|
+Z11 !s107 /home/shup/Documents/SENG_Fall_24/Digital Sys/Lab6/ANDGATE.vhd|
 !i113 1
 Z12 o-work work -2002 -explicit
 Z13 tExplicit 1 CvgOpt 0
@@ -36,12 +36,12 @@ Amyarch
 R1
 R2
 R3
-Z14 DEx4 work 17 fourbitsubtracter 0 22 LIGIlD;_m>OfY@99ifXmT1
-!i122 16
-l25
-Z15 L14 18
-Z16 VP=jLVZL6D9Zd;37K;Vn8[2
-Z17 !s100 MZnd[OiTNB[g=Ll7To7673
+DEx4 work 7 andgate 0 22 z8CK4Kj_kd3N^5XXTFOed0
+!i122 45
+l13
+Z14 L12 4
+VOM63IeXBckcY2Nh8c:g453
+!s100 ZZfo78]DiVC[f8<S8;_lC0
 R7
 32
 R8
@@ -52,15 +52,101 @@ R11
 !i113 1
 R12
 R13
-Efullsubtracter
-Z18 w1728665621
+Ecounter
+Z15 w1729271089
 R1
 R2
 R3
-!i122 15
+!i122 43
 R4
-Z19 8/home/shup/Documents/SENG_Fall_24/Digital Sys/Lab6/FullSubtracter.vhd
-Z20 F/home/shup/Documents/SENG_Fall_24/Digital Sys/Lab6/FullSubtracter.vhd
+Z16 8/home/shup/Documents/SENG_Fall_24/Digital Sys/Lab6/Counter.vhd
+Z17 F/home/shup/Documents/SENG_Fall_24/Digital Sys/Lab6/Counter.vhd
+l0
+L5 1
+Vg2dC2XUz:VP@@`7]]J1<K1
+!s100 0kIIh2W3XC0;@;`=CSMWV2
+R7
+32
+R8
+!i10b 1
+R9
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/shup/Documents/SENG_Fall_24/Digital Sys/Lab6/Counter.vhd|
+Z19 !s107 /home/shup/Documents/SENG_Fall_24/Digital Sys/Lab6/Counter.vhd|
+!i113 1
+R12
+R13
+Acounterarch
+R1
+R2
+R3
+DEx4 work 7 counter 0 22 g2dC2XUz:VP@@`7]]J1<K1
+!i122 43
+l15
+L13 14
+VeVf=4nGm0J;?D<d`DC;H60
+!s100 =J`22SKN;zOT=JO^8Ud5Q1
+R7
+32
+R8
+!i10b 1
+R9
+R18
+R19
+!i113 1
+R12
+R13
+Efourbitsubtracter
+Z20 w1728666493
+R1
+R2
+R3
+!i122 42
+R4
+Z21 8/home/shup/Documents/SENG_Fall_24/Digital Sys/Lab6/FourBitSub.vhd
+Z22 F/home/shup/Documents/SENG_Fall_24/Digital Sys/Lab6/FourBitSub.vhd
+l0
+L5 1
+VLIGIlD;_m>OfY@99ifXmT1
+!s100 NWjB:X?:Cj:zW]W0W6@Z]1
+R7
+32
+R8
+!i10b 1
+R9
+Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/shup/Documents/SENG_Fall_24/Digital Sys/Lab6/FourBitSub.vhd|
+Z24 !s107 /home/shup/Documents/SENG_Fall_24/Digital Sys/Lab6/FourBitSub.vhd|
+!i113 1
+R12
+R13
+Amyarch
+R1
+R2
+R3
+DEx4 work 17 fourbitsubtracter 0 22 LIGIlD;_m>OfY@99ifXmT1
+!i122 42
+l25
+L14 18
+VP=jLVZL6D9Zd;37K;Vn8[2
+!s100 MZnd[OiTNB[g=Ll7To7673
+R7
+32
+R8
+!i10b 1
+R9
+R23
+R24
+!i113 1
+R12
+R13
+Efullsubtracter
+Z25 w1728665621
+R1
+R2
+R3
+!i122 41
+R4
+Z26 8/home/shup/Documents/SENG_Fall_24/Digital Sys/Lab6/FullSubtracter.vhd
+Z27 F/home/shup/Documents/SENG_Fall_24/Digital Sys/Lab6/FullSubtracter.vhd
 l0
 L5 1
 V2>?LB>YQ>QIEEhl34bTZP2
@@ -70,8 +156,8 @@ R7
 R8
 !i10b 1
 R9
-Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/shup/Documents/SENG_Fall_24/Digital Sys/Lab6/FullSubtracter.vhd|
-Z22 !s107 /home/shup/Documents/SENG_Fall_24/Digital Sys/Lab6/FullSubtracter.vhd|
+Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/shup/Documents/SENG_Fall_24/Digital Sys/Lab6/FullSubtracter.vhd|
+Z29 !s107 /home/shup/Documents/SENG_Fall_24/Digital Sys/Lab6/FullSubtracter.vhd|
 !i113 1
 R12
 R13
@@ -80,7 +166,7 @@ R1
 R2
 R3
 DEx4 work 14 fullsubtracter 0 22 2>?LB>YQ>QIEEhl34bTZP2
-!i122 15
+!i122 41
 l13
 L12 5
 V=>zAED?E_maF6MOfAGUD:2
@@ -90,8 +176,137 @@ R7
 R8
 !i10b 1
 R9
-R21
-R22
+R28
+R29
+!i113 1
+R12
+R13
+Emux
+Z30 w1729318367
+R1
+R2
+R3
+!i122 53
+R4
+Z31 8/home/shup/Documents/SENG_Fall_24/Digital Sys/Lab6/MUX.vhd
+Z32 F/home/shup/Documents/SENG_Fall_24/Digital Sys/Lab6/MUX.vhd
+l0
+L5 1
+V@4<E>YaEY4I0d2m^0[Dj?0
+!s100 bbAjzIgfTVaOS=4Vi]=fZ3
+R7
+32
+Z33 !s110 1729318371
+!i10b 1
+Z34 !s108 1729318371.000000
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/shup/Documents/SENG_Fall_24/Digital Sys/Lab6/MUX.vhd|
+!s107 /home/shup/Documents/SENG_Fall_24/Digital Sys/Lab6/MUX.vhd|
+!i113 1
+R12
+R13
+Amyarch
+R1
+R2
+R3
+DEx4 work 3 mux 0 22 @4<E>YaEY4I0d2m^0[Dj?0
+!i122 53
+l39
+L14 31
+VQ=i9?>g6^B1jZe?NeHh982
+!s100 XzVUX7bK>OBA=PX?1PFS30
+R7
+32
+R33
+!i10b 1
+R34
+R35
+Z36 !s107 /home/shup/Documents/SENG_Fall_24/Digital Sys/Lab6/MUX.vhd|
+!i113 1
+R12
+R13
+Enotgate
+Z37 w1729317274
+R1
+R2
+R3
+!i122 47
+R4
+Z38 8/home/shup/Documents/SENG_Fall_24/Digital Sys/Lab6/NOTGATE.vhd
+Z39 F/home/shup/Documents/SENG_Fall_24/Digital Sys/Lab6/NOTGATE.vhd
+l0
+L5 1
+V>5ba^G;CgE33F@k`cPJ1O3
+!s100 ^[9PZ7IVnXa`I5E7Dz<L^1
+R7
+32
+R8
+!i10b 1
+R9
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/shup/Documents/SENG_Fall_24/Digital Sys/Lab6/NOTGATE.vhd|
+Z41 !s107 /home/shup/Documents/SENG_Fall_24/Digital Sys/Lab6/NOTGATE.vhd|
+!i113 1
+R12
+R13
+Amyarch
+R1
+R2
+R3
+DEx4 work 7 notgate 0 22 >5ba^G;CgE33F@k`cPJ1O3
+!i122 47
+l13
+R14
+VF>d@[2A<U>G<NJV_WLzYf3
+!s100 ^?zj^5LVg[JDSk2Cf64>e3
+R7
+32
+R8
+!i10b 1
+R9
+R40
+R41
+!i113 1
+R12
+R13
+Eorgate
+Z42 w1729317193
+R1
+R2
+R3
+!i122 46
+R4
+Z43 8/home/shup/Documents/SENG_Fall_24/Digital Sys/Lab6/ORGATE.vhd
+Z44 F/home/shup/Documents/SENG_Fall_24/Digital Sys/Lab6/ORGATE.vhd
+l0
+L5 1
+V4QR7R7S@UzSl<7RP8Ae1R2
+!s100 4TV2AUEk<9aIQhz9VhB0V1
+R7
+32
+R8
+!i10b 1
+R9
+Z45 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/shup/Documents/SENG_Fall_24/Digital Sys/Lab6/ORGATE.vhd|
+Z46 !s107 /home/shup/Documents/SENG_Fall_24/Digital Sys/Lab6/ORGATE.vhd|
+!i113 1
+R12
+R13
+Amyarch
+R1
+R2
+R3
+DEx4 work 6 orgate 0 22 4QR7R7S@UzSl<7RP8Ae1R2
+!i122 46
+l13
+R14
+VUbk1^S>aPgR^XncU>><Sf3
+!s100 74ZTO<>dI6J[BT2N@eZG<2
+R7
+32
+R8
+!i10b 1
+R9
+R45
+R46
 !i113 1
 R12
 R13

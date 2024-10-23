@@ -1,6 +1,31 @@
-# Compile of FullSubtracter.vhd failed with 1 errors.
 # Compile of FullSubtracter.vhd was successful.
-# Compile of FullSubtracter.vhd failed with 1 errors.
-# Compile of FullSubtracter.vhd failed with 1 errors.
-# Compile of FullSubtracter.vhd failed with 1 errors.
+# Compile of FourBitSub.vhd was successful.
+# Compile of Counter.vhd was successful.
+# Compile of MUX.vhd failed with 1 errors.
+# Compile of ANDGATE.vhd was successful.
+# 5 compiles, 1 failed with 1 error.
+# Compile of ORGATE.vhd was successful.
+# Compile of NOTGATE.vhd was successful.
+# Compile of MUX.vhd was successful.
 # Compile of FullSubtracter.vhd was successful.
+# Compile of FourBitSub.vhd was successful.
+# Compile of Counter.vhd was successful.
+# Compile of MUX.vhd failed with 1 errors.
+# Compile of ANDGATE.vhd was successful.
+# Compile of ORGATE.vhd was successful.
+# Compile of NOTGATE.vhd was successful.
+# 7 compiles, 1 failed with 1 error.
+# Compile of FullSubtracter.vhd was successful.
+# Compile of FourBitSub.vhd was successful.
+# Compile of Counter.vhd was successful.
+# Compile of MUX.vhd failed with 6 errors.
+# Compile of ANDGATE.vhd was successful.
+# Compile of ORGATE.vhd was successful.
+# Compile of NOTGATE.vhd was successful.
+# 7 compiles, 1 failed with 6 errors.
+# Compile of MUX.vhd failed with 7 errors.
+# Compile of MUX.vhd failed with 7 errors.
+# Compile of MUX.vhd failed with 6 errors.
+# Compile of MUX.vhd failed with 7 errors.
+# Compile of MUX.vhd failed with 7 errors.
+# Compile of MUX.vhd was successful.
