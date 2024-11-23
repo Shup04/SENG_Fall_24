@@ -1,0 +1,69 @@
+entity CLA16 is
+    port (
+        A0, A1, A2, A3, B0, B1, B2, B3: in bit_vector(3 downto 0); 
+        Ci16: in bit;  
+        S16: out bit_vector(15 downto 0); 
+        Co16, PG16, GG16: out bit 
+    );
+end CLA16;
+
+architecture Structure of CLA16 is
+
+    component CLA4 is
+        port (
+            A, B: in bit_vector(3 downto 0); 
+            Ci: in bit;
+            S: out bit_vector(3 downto 0); 
+            Co, PG, GG: out bit
+        );
+    end component;
+
+    component CLALogic is 
+        port (
+            G, P: in bit_vector(3 downto 0); 
+            Ci: in bit;
+            C: out bit_vector(3 downto 0); 
+            Co, PG, GG: out bit
+        );
+    end component;
+
+    -- Signals
+    signal S0, S1, S2, S3: bit_vector(3 downto 0); -- Sums for each 4-bit block
+    signal CarryInter: bit_vector(3 downto 0); -- Carry between CLA4 blocks
+    signal G, P: bit_vector(3 downto 0); -- Generate and Propagate for each block
+
+begin
+    -- Instantiate CLALogic for global propagation/generation
+    CarryLogic: CLALogic port map (
+        G => G, 
+        P => P, 
+        Ci => Ci16, 
+        C => open,        -- No direct connection to CarryInter
+        Co => Co16, 
+        PG => PG16, 
+        GG => GG16
+    );
+
+    -- Instantiate CLA4 blocks
+    CLAa: CLA4 port map (
+        A => A0, B => B0, Ci => Ci16, 
+        S => S0, Co => CarryInter(0), PG => P(0), GG => G(0)
+    );
+    CLAb: CLA4 port map (
+        A => A1, B => B1, Ci => CarryInter(0), 
+        S => S1, Co => CarryInter(1), PG => P(1), GG => G(1)
+    );
+    CLAc: CLA4 port map (
+        A => A2, B => B2, Ci => CarryInter(1), 
+        S => S2, Co => CarryInter(2), PG => P(2), GG => G(2)
+    );
+    CLAd: CLA4 port map (
+        A => A3, B => B3, Ci => CarryInter(2), 
+        S => S3, Co => CarryInter(3), PG => P(3), GG => G(3)
+    );
+
+    -- Combine results to form 16-bit sum
+    S16 <= S3 & S2 & S1 & S0;
+
+end Structure;
+

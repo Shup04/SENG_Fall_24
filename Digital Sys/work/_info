@@ -1,0 +1,159 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/shup
+Ecla16
+Z0 w1731697225
+!i122 32
+Z1 d/home/shup/Documents/SENG_Fall_24/Digital Sys
+Z2 8/home/shup/Documents/SENG_Fall_24/Digital Sys/16BCLAAdder.vhd
+Z3 F/home/shup/Documents/SENG_Fall_24/Digital Sys/16BCLAAdder.vhd
+l0
+L1 1
+VY=<=G;N@D5Q:UY@g^44MU3
+!s100 zN174JVIT82cY_KFN:hCF1
+Z4 OV;C;2020.1;71
+32
+Z5 !s110 1731697229
+!i10b 1
+Z6 !s108 1731697229.000000
+Z7 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/shup/Documents/SENG_Fall_24/Digital Sys/16BCLAAdder.vhd|
+Z8 !s107 /home/shup/Documents/SENG_Fall_24/Digital Sys/16BCLAAdder.vhd|
+!i113 1
+Z9 o-work work -2002 -explicit
+Z10 tExplicit 1 CvgOpt 0
+Astructure
+DEx4 work 5 cla16 0 22 Y=<=G;N@D5Q:UY@g^44MU3
+!i122 32
+l35
+L10 59
+V10XA2R5zRQ1AX_]koFPo03
+!s100 aLQ=jhSjnYn0Af63AkC9<3
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Ecla4
+Z11 w1731691420
+!i122 28
+R1
+Z12 8/home/shup/Documents/SENG_Fall_24/Digital Sys/CLALogic.vhd
+Z13 F/home/shup/Documents/SENG_Fall_24/Digital Sys/CLALogic.vhd
+l0
+L1 1
+V:9h>>lV2XCQ_LXzoK_n6>1
+!s100 la8M>g<h[BVEXl80NJGlG2
+R4
+32
+Z14 !s110 1731696863
+!i10b 1
+Z15 !s108 1731696863.000000
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/shup/Documents/SENG_Fall_24/Digital Sys/CLALogic.vhd|
+Z17 !s107 /home/shup/Documents/SENG_Fall_24/Digital Sys/CLALogic.vhd|
+!i113 1
+R9
+R10
+Astructure
+DEx4 work 4 cla4 0 22 :9h>>lV2XCQ_LXzoK_n6>1
+!i122 28
+l21
+L6 22
+V6<cLbmnbF:ZJzEzdM?CE90
+!s100 =jXSdzHZJYWfGPMK@be;j1
+R4
+32
+R14
+!i10b 1
+R15
+R16
+R17
+!i113 1
+R9
+R10
+Eclalogic
+R11
+!i122 28
+R1
+R12
+R13
+l0
+L30 1
+V<BX;E[A8mm;C`92;8Zz4a0
+!s100 =U23bQTAh3`L`fjYc7:V02
+R4
+32
+R14
+!i10b 1
+R15
+R16
+R17
+!i113 1
+R9
+R10
+Aequations
+DEx4 work 8 clalogic 0 22 <BX;E[A8mm;C`92;8Zz4a0
+!i122 28
+l37
+L35 14
+V0C`1Pk@9Mm9K^f`BBa<gh1
+!s100 XTG=4T;_@8<17iNA;Uzb;3
+R4
+32
+R14
+!i10b 1
+R15
+R16
+R17
+!i113 1
+R9
+R10
+Egpfulladder
+R11
+!i122 28
+R1
+R12
+R13
+l0
+L50 1
+VfYJ?OTE`[O^:]0>zA^KiV3
+!s100 :TKU;N[hT1h9>Z3^J<56C1
+R4
+32
+R14
+!i10b 1
+R15
+R16
+R17
+!i113 1
+R9
+R10
+Aequations
+DEx4 work 11 gpfulladder 0 22 fYJ?OTE`[O^:]0>zA^KiV3
+!i122 28
+l57
+L55 8
+VZCG04e9I;`7IP3?d6AeF>0
+!s100 K>lFU`ano;`LRF3K4A`3i0
+R4
+32
+R14
+!i10b 1
+R15
+R16
+R17
+!i113 1
+R9
+R10

@@ -1,0 +1,17 @@
+{/home/shup/Documents/SENG_Fall_24/Digital Sys/CLALogic.vhd} {1 {vcom -work work -2002 -explicit -stats=none {/home/shup/Documents/SENG_Fall_24/Digital Sys/CLALogic.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling entity CLA4
+-- Compiling architecture Structure of CLA4
+-- Compiling entity CLALogic
+-- Compiling architecture Equations of CLALogic
+-- Compiling entity GPFullAdder
+-- Compiling architecture Equations of GPFullAdder
+
+} {} {}} {/home/shup/Documents/SENG_Fall_24/Digital Sys/16BCLAAdder.vhd} {1 {vcom -work work -2002 -explicit -stats=none {/home/shup/Documents/SENG_Fall_24/Digital Sys/16BCLAAdder.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling entity CLA16
+-- Compiling architecture Structure of CLA16
+
+} {} {}}
